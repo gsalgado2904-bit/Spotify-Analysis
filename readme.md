@@ -1,4 +1,4 @@
-# Data Analysis Project
+# Spotify EDA 
 
 ## Overview
 This project analyzes data using Python to extract insights and support data-driven decision-making.
